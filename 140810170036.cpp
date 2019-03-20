@@ -1,6 +1,6 @@
 /*
-     Nama : Mohamad Achun Armando
-     NPM  : 140810170020
+     Nama : Arief Ramadhan
+     NPM  : 140810170036
 */
 #include <stdlib.h>
 #include <stdio.h>
